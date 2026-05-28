@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15",
+    "category": "Mobile",
+    "price": 79999,
+    "stock": 15,
+    "brand": "Apple",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24",
+    "category": "Mobile",
+    "price": 68999,
+    "stock": 20,
+    "brand": "Samsung",
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "name": "Dell Inspiron 15",
+    "category": "Laptop",
+    "price": 55999,
+    "stock": 10,
+    "brand": "Dell",
+    "rating": 4.5
+  },
+  {
+    "id": 4,
+    "name": "HP Pavilion",
+    "category": "Laptop",
+    "price": 62999,
+    "stock": 8,
+    "brand": "HP",
+    "rating": 4.4
+  },
+  {
+    "id": 5,
+    "name": "Boat Rockerz 450",
+    "category": "Headphones",
+    "price": 1499,
+    "stock": 30,
+    "brand": "Boat",
+    "rating": 4.2
+  },
+  {
+    "id": 6,
+    "name": "Sony WH-1000XM5",
+    "category": "Headphones",
+    "price": 24999,
+    "stock": 5,
+    "brand": "Sony",
+    "rating": 4.9
+  },
+  {
+    "id": 7,
+    "name": "Logitech G102",
+    "category": "Mouse",
+    "price": 1299,
+    "stock": 25,
+    "brand": "Logitech",
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "name": "Mechanical Keyboard K8",
+    "category": "Keyboard",
+    "price": 3999,
+    "stock": 12,
+    "brand": "Keychron",
+    "rating": 4.7
+  },
+  {
+    "id": 9,
+    "name": "Nike Revolution 7",
+    "category": "Shoes",
+    "price": 3499,
+    "stock": 18,
+    "brand": "Nike",
+    "rating": 4.3
+  },
+  {
+    "id": 10,
+    "name": "Wildcraft Backpack",
+    "category": "Bags",
+    "price": 2199,
+    "stock": 22,
+    "brand": "Wildcraft",
+    "rating": 4.4
+  }
+]

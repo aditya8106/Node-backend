@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Adith",
+    "email": "adith@example.com",
+    "role": "Frontend Developer",
+    "age": 21,
+    "city": "Hyderabad"
+  },
+  {
+    "id": 2,
+    "name": "Rahul",
+    "email": "rahul@example.com",
+    "role": "Backend Developer",
+    "age": 22,
+    "city": "Bangalore"
+  },
+  {
+    "id": 3,
+    "name": "Sneha",
+    "email": "sneha@example.com",
+    "role": "UI Designer",
+    "age": 20,
+    "city": "Chennai"
+  },
+  {
+    "id": 4,
+    "name": "Kiran",
+    "email": "kiran@example.com",
+    "role": "DevOps Engineer",
+    "age": 23,
+    "city": "Pune"
+  },
+  {
+    "id": 5,
+    "name": "Anjali",
+    "email": "anjali@example.com",
+    "role": "Full Stack Developer",
+    "age": 21,
+    "city": "Mumbai"
+  }
+]
