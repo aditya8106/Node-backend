@@ -38,4 +38,6 @@ app.get('/products', (req, res) => {
   res.json(products);
 });
 
-app.listen(3000);
+app.listen(3000, () => {
+  console.log("Server running");
+});
