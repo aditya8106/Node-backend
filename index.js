@@ -38,6 +38,4 @@ app.get('/products', (req, res) => {
   res.json(products);
 });
 
-app.listen(port, () => {
-  console.log(`Server running on http://localhost:${port}`);
-});
+app.listen(3000);
