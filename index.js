@@ -7,7 +7,7 @@ const users = require('./users.json');
 const products = require('./products.json');
 
 app.get('/', (req, res) => {
-  res.send('Backend is backend is booming');
+  res.send('Backend is backend is dancing');
 });
 
 app.get('/about', (req, res) => {
